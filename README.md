@@ -1,4 +1,4 @@
-# V3nture
+# v3nture
 
 
 MVP for creating personas and supporting new venture builders with AI
@@ -16,11 +16,14 @@ MVP for creating personas and supporting new venture builders with AI
 
 ## Description
 
-This is a MVP for supporting founders and builders find their first costumers. Just complete the form and you will recieve an email with the profile of one possible costumer. Also you will rewarded with and NFT and a membership to V3nture DAO.
+This is an MVP for supporting founders and builders in finding their first customers and specifically into identifying a persona (customer segment) that is relevant for their venture. Just provide a short description of your venture and you will receive an email with the profile of one relevant persona. Also, you will rewarded with an NFT and a membership to v3nture DAO.
+Identifying that one individual who decides to adopt your solution is crucial. Why? Because businesses aren't faceless entities; they're made of people. People with preferences, biases, and unique pain points. When we target companies or departments, we're shooting in the dark. But by focusing on the individual decision-maker, we tap into the very heart of what drives a purchase — emotion, need, and value perception. 
+So don't just understand your product, understand the person who says 'yes' to it. Dive deeper, and tailor your approach to resonate with that persona. The payoff? A message that doesn't just reach its target, but sticks.
+
 
 ## Demo
 
-Include a link to a live demo of your project if available. You can also embed screenshots, videos, or GIFs to showcase your project's functionality.
+Access the demo at https://www.v3nture.xyz/persona
 
 ## Features
 
@@ -30,16 +33,19 @@ Include a link to a live demo of your project if available. You can also embed s
 
 ## Technologies Used
 
-Provide a list of the technologies, frameworks, libraries, and tools you used to build your project.
+Activepieces for creating the automation and logging the system.
+WIX for creating the landing page.
+Google Analytics for website analytics.
+Typeform for creating the form.
+ChatGPT for generating the responses and formatting the replies.
+Remix IDE for developing, and compiling the smart contracts.
+Openzeppelin.com for the NFT and DAO contracts (Used ERC721 and Governor contracts).
+Calendly for scheduling and managing the free sessions.
+VideoAsk to receive feedback
+Polygonscan.com for debugging and monitoring.
+tally.xyz for the DAO dashboard.
+Polygon network for deploying the contracts.
 
-- Activepieces.com for creating the automations and logging the system.
-- ChatGPT for generating the responses and formating the replies.
-- Typeform for creating the form.
-- Remix IDE for developing, compiling the smart contracts.
-- Openzeppelin.com for the NFT and DAO contracts (Used ERC721 and Governor contracts).
-- Polygonscan.com for debuging and monitoring.
-- tally.xyz for DAO dashboard.
-- Polygon network for deploying the contracts.
 
 ## Usefull addresses 
 
