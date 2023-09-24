@@ -16,7 +16,7 @@ MVP for creating personas and supporting new venture builders with AI
 
 ## Description
 
-Provide a brief introduction to your project. Explain the problem it aims to solve, the target audience, and the main features or functionalities it offers.
+This is a MVP for supporting founders and builders find their first costumers. Just complete the form and you will recieve an email with the profile of one possible costumer. Also you will rewarded with and NFT and a membership to V3nture DAO.
 
 ## Demo
 
@@ -24,11 +24,9 @@ Include a link to a live demo of your project if available. You can also embed s
 
 ## Features
 
-List the key features of your project. Use bullet points to make it easy to read.
-
-- Feature 1
-- Feature 2
-- Feature 3
+- The proccess is simple and fast. User just input a description of the start-up. 
+- Quality and fast response with email.
+- Give access to a community that shares the same problems and access to high quality resources
 
 ## Technologies Used
 
